@@ -26,3 +26,4 @@ A estrutura do código é organizada por <span style="color: blueviolet;">compon
 - **Repo:** Serviço identico ao Issues, com a diferença de compartilhar a API referente a pesquisa de Repositórios.
 
 - **Show-search-results:** Serviço criado para compartilhar 4 variaveis com todos os componentes do código a fim de utilizá-las conforme o necessário.
+
